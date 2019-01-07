@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>1137512365</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\SD_Drive.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\Drive.pbi</file>
+      <file>$PROJ_DIR$\Main.c</file>
+      <file>$PROJ_DIR$\74LS164_8LED.c</file>
+      <file>$PROJ_DIR$\..\&#x63A5;&#x6536;20181025\&#x6307;&#x4ee4;&#x8BF4;&#x660e;.txt</file>
+      <file>$PROJ_DIR$\Debug\Obj\LED.pbd</file>
+      <file>$PROJ_DIR$\Debug\Exe\send.d51</file>
+      <file>$TOOLKIT_DIR$\lib\clib\cl-pli-blxd-1e16x01.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\Main.pbi</file>
+      <file>F:\&#x6DD8;&#x5B9D;&#x76F8;&#x5173;\Zigbee&#x6559;&#x7A0B;\&#x7B14;&#x8BB0;\74LS164&#x9A71;&#x52A8;&#x5171;&#x9634;&#x6570;&#x7801;&#x7BA1;\74LS164_8LED.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\Drive.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\74LS164_8LED.pbi</file>
+      <file>$PROJ_DIR$\Debug\Exe\LED.d51</file>
+      <file>$PROJ_DIR$\Debug\Obj\SD_Drive.r51</file>
+      <file>$PROJ_DIR$\74LS164_8LED.h</file>
+      <file>$PROJ_DIR$\Drive.c</file>
+      <file>$TOOLKIT_DIR$\config\devices\Texas Instruments\lnk51ew_cc2531F256_banked.xcl</file>
+      <file>$TOOLKIT_DIR$\inc\ioCC2530.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\74LS164_8LED.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\send.pbd</file>
+      <file>$PROJ_DIR$\..\..\..\74LS164&#x9A71;&#x52A8;&#x5171;&#x9634;&#x6570;&#x7801;&#x7BA1;\74LS164_8LED.h</file>
+      <file>$PROJ_DIR$\..\..\..\74LS164&#x9A71;&#x52A8;&#x5171;&#x9634;&#x6570;&#x7801;&#x7BA1;\74LS164_8LED.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\SD_Drive.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\Main.r51</file>
+      <file>$PROJ_DIR$\SD_Drive.h</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\SD_Drive.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 13</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 22</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 17 24 14</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 17 24 14</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Main.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 23</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 17 24 14</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 17 24 14</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\74LS164_8LED.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 18</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 17 14</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 17 14</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 6</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\LED.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 11 8 22</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\send.d51</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 16 18 23 13 7</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>F:\&#x6DD8;&#x5B9D;&#x76F8;&#x5173;\Zigbee&#x6559;&#x7A0B;\&#x7B14;&#x8BB0;\74LS164&#x9A71;&#x52A8;&#x5171;&#x9634;&#x6570;&#x7801;&#x7BA1;\74LS164_8LED.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\LED.d51</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 16 18 23 13 7</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Drive.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 10</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 1</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\send.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 11 8 22</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\74LS164&#x9A71;&#x52A8;&#x5171;&#x9634;&#x6570;&#x7801;&#x7BA1;\74LS164_8LED.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 18</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 17 20</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 17 20</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
